@@ -1,0 +1,885 @@
+Unnamed: 0,utterance_id,turn_id,chat_id,datetime,user_utterance,valence,label,sublabel,bot_action,bot_datetime,bot_utterance,user_rating,user_rating_explanation,valence_new,label_new,sublabel_new,Contained technical issue,user_rating_english,user_rating_explanation_english,user_sentiment,bot_sentiment
+0,1,1,1.0,2023-08-07 15:42:33.034771,start,Follow/Neutral,,,,2023-08-07 15:42:35.406764,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+6,7,1,2.0,2023-08-07 15:45:25.459049,start,Follow/Neutral,,,,2023-08-07 15:45:27.421443,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+12,13,1,3.0,2023-08-07 15:48:26.405582,start,Follow/Neutral,,,,2023-08-07 15:48:28.583977,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+18,19,1,4.0,2023-08-07 15:50:31.396686,start,Follow/Neutral,,,,2023-08-07 15:50:32.984264,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+24,25,1,5.0,2023-08-07 15:51:36.413884,start,Follow/Neutral,,,,2023-08-07 15:51:38.029702,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+44,45,1,6.0,2023-08-07 15:57:14.055397,start,Follow/Neutral,,,,2023-08-07 15:57:15.861812,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+45,46,1,7.0,2023-08-07 15:57:29.270026,start,Follow/Neutral,,,,2023-08-07 15:57:31.100727,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+48,49,1,8.0,2023-08-07 15:58:12.946597,start,Follow/Neutral,,,,2023-08-07 15:58:14.619916,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+96,97,1,9.0,2023-08-07 16:18:58.864302,start,Follow/Neutral,,,,2023-08-07 16:19:00.631952,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+97,98,1,10.0,2023-08-07 16:19:07.621193,start,Follow/Neutral,,,,2023-08-07 16:19:09.208486,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+98,99,1,11.0,2023-08-07 16:19:18.740584,start,Follow/Neutral,,,,2023-08-07 16:19:20.394766,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+111,112,1,12.0,2023-08-07 16:23:14.252232,start,Follow/Neutral,,,,2023-08-07 16:23:16.024751,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+122,123,1,13.0,2023-08-07 16:26:33.470652,start,Follow/Neutral,,,,2023-08-07 16:26:35.168728,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+152,153,1,14.0,2023-08-07 16:36:32.383264,start,Follow/Neutral,,,,2023-08-07 16:36:34.345743,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+163,164,1,15.0,2023-08-07 16:41:00.303828,start,Follow/Neutral,,,,2023-08-07 16:41:02.298222,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+168,169,1,16.0,2023-08-07 16:42:45.895098,start,Follow/Neutral,,,,2023-08-07 16:42:47.624636,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+192,193,1,17.0,2023-08-07 17:08:03.789846,start,Follow/Neutral,,,,2023-08-07 17:08:05.385616,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+198,199,1,19.0,2023-08-07 17:10:42.594973,start,Follow/Neutral,,,,2023-08-07 17:10:44.236313,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+235,236,1,21.0,2023-08-07 17:31:18.25786,start,Follow/Neutral,,,,2023-08-07 17:31:19.95256,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+241,242,1,22.0,2023-08-07 17:33:04.593291,start,Follow/Neutral,,,,2023-08-07 17:33:06.564113,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+243,244,1,23.0,2023-08-07 17:33:47.601202,start,Follow/Neutral,,,,2023-08-07 17:33:49.705909,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+246,247,1,24.0,2023-08-07 17:34:10.639525,start,Follow/Neutral,,,,2023-08-07 17:34:12.870006,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+248,249,1,25.0,2023-08-07 17:34:35.615225,start,Follow/Neutral,,,,2023-08-07 17:34:37.501047,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+268,269,1,26.0,2023-08-07 17:38:37.567368,start,Follow/Neutral,,,,2023-08-07 17:38:39.208178,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+276,277,1,27.0,2023-08-07 17:39:45.239513,start,Follow/Neutral,,,,2023-08-07 17:40:18.934515,"Du möchtest also gesünder essen. Kannst du mir etwas darüber erzählen, warum dir diese Veränderung wichtig ist?",,,Follow/Neutral,,,,,,2.0,2.0
+321,322,1,28.0,2023-08-08 09:50:09.42438,start,Follow/Neutral,,,,2023-08-08 09:50:11.35437,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+337,338,1,31.0,2023-08-08 10:11:52.20302,start,Follow/Neutral,,,,2023-08-08 10:11:53.978048,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+358,359,1,32.0,2023-08-08 10:30:39.640218,start,Follow/Neutral,,,,2023-08-08 10:30:41.254126,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+395,396,1,36.0,2023-08-08 11:58:18.996968,start,Follow/Neutral,,,,2023-08-08 11:58:20.708076,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+406,407,1,37.0,2023-08-08 12:04:19.045484,start,Follow/Neutral,,,,2023-08-08 12:04:20.90114,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+413,414,1,38.0,2023-08-08 12:06:26.964009,start,Follow/Neutral,,,,2023-08-08 12:06:28.820521,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+415,416,1,39.0,2023-08-08 12:06:36.877642,start,Follow/Neutral,,,,2023-08-08 12:06:38.807865,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+422,423,1,40.0,2023-08-08 12:07:34.914288,start,Follow/Neutral,,,,2023-08-08 12:07:36.649655,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+462,463,1,41.0,2023-08-08 12:21:33.503332,start,Follow/Neutral,,,,2023-08-08 12:21:35.550572,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+474,475,1,42.0,2023-08-08 12:37:57.203762,start,Follow/Neutral,,,,2023-08-08 12:37:58.998537,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+486,487,1,44.0,2023-08-08 12:43:09.399854,start,Follow/Neutral,,,,2023-08-08 12:43:11.496872,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+487,488,1,45.0,2023-08-08 12:43:14.823198,start,Follow/Neutral,,,,2023-08-08 12:43:16.70569,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+550,551,1,49.0,2023-08-08 13:22:17.282727,start,Follow/Neutral,,,,2023-08-08 13:22:19.054459,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+556,557,1,50.0,2023-08-08 13:25:08.001537,start,Follow/Neutral,,,,2023-08-08 13:25:09.672779,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+561,562,1,51.0,2023-08-08 13:26:38.014734,start,Follow/Neutral,,,,2023-08-08 13:26:39.850366,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+564,565,1,52.0,2023-08-08 13:27:10.701874,start,Follow/Neutral,,,,2023-08-08 13:27:12.392474,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,,,,2.0,1.8333333333333333
+597,598,1,53.0,2023-08-08 13:36:12.256604,start,Follow/Neutral,,,,2023-08-08 13:36:14.185999,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+625,626,1,55.0,2023-08-08 13:55:45.527345,start,Follow/Neutral,,,,2023-08-08 13:55:47.238627,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+639,640,1,56.0,2023-08-08 14:11:34.22044,start,Follow/Neutral,,,,2023-08-08 14:11:36.161597,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+644,645,1,57.0,2023-08-08 14:15:33.821169,start,Follow/Neutral,,,,2023-08-08 14:15:36.006068,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+658,659,1,58.0,2023-08-08 14:31:34.435234,start,Follow/Neutral,,,,2023-08-08 14:31:36.551591,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+675,676,1,59.0,2023-08-08 14:48:33.463138,start,Follow/Neutral,,,,2023-08-08 14:48:35.342126,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+685,686,1,60.0,2023-08-08 14:58:07.047446,start,Follow/Neutral,,,,2023-08-08 14:58:08.696524,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+691,692,1,61.0,2023-08-08 14:59:50.948215,start,Follow/Neutral,,,,2023-08-08 14:59:53.123706,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+698,699,1,62.0,2023-08-08 15:04:05.82962,start,Follow/Neutral,,,,2023-08-08 15:04:07.650432,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+699,700,1,63.0,2023-08-08 15:04:33.409317,start,Follow/Neutral,,,,2023-08-08 15:04:35.127452,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+710,711,1,64.0,2023-08-08 15:08:11.663067,start,Follow/Neutral,,,,2023-08-08 15:08:13.304341,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+747,748,1,65.0,2023-08-08 16:30:39.890247,start,Follow/Neutral,,,,2023-08-08 16:30:42.206797,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+753,754,1,66.0,2023-08-08 16:38:43.335446,start,Follow/Neutral,,,,2023-08-08 16:38:45.29851,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+762,763,1,67.0,2023-08-08 16:46:27.469349,start,Follow/Neutral,,,,2023-08-08 16:46:29.307433,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+777,778,1,69.0,2023-08-08 16:55:01.71479,start,Follow/Neutral,,,,2023-08-08 16:55:03.588611,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+783,784,1,70.0,2023-08-08 16:56:29.012804,start,Follow/Neutral,,,,2023-08-08 16:56:30.651458,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+784,785,1,71.0,2023-08-08 16:56:32.183922,start,Follow/Neutral,,,,2023-08-08 16:56:33.999216,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+809,810,1,72.0,2023-08-08 17:02:36.505585,start,Follow/Neutral,,,,2023-08-08 17:02:38.364992,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+812,813,1,73.0,2023-08-08 17:03:05.559006,start,Follow/Neutral,,,,2023-08-08 17:03:07.864727,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+833,834,1,74.0,2023-08-08 17:07:14.578936,start,Follow/Neutral,,,,2023-08-08 17:07:16.67144,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+835,836,1,75.0,2023-08-08 17:07:29.385015,start,Follow/Neutral,,,,2023-08-08 17:07:31.060441,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+902,913,1,80.0,2023-08-09 09:10:21.555944,start,Follow/Neutral,,,,2023-08-09 09:10:23.463338,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+909,922,1,81.0,2023-08-09 09:15:01.465504,start,Follow/Neutral,,,,2023-08-09 09:15:03.063733,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+919,932,1,83.0,2023-08-09 09:20:45.705075,start,Follow/Neutral,,,,2023-08-09 09:20:47.58036,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+931,944,1,84.0,2023-08-09 09:23:34.877219,start,Follow/Neutral,,,,2023-08-09 09:23:36.513929,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+948,961,1,85.0,2023-08-09 09:29:50.978503,start,Follow/Neutral,,,,2023-08-09 09:29:52.88695,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+972,985,1,86.0,2023-08-09 09:40:55.80342,start,Follow/Neutral,,,,2023-08-09 09:40:57.387354,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+981,994,1,87.0,2023-08-09 09:52:31.657507,start,Follow/Neutral,,,,2023-08-09 09:52:33.524636,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+988,1001,1,88.0,2023-08-09 09:57:55.000353,start,Follow/Neutral,,,,2023-08-09 09:57:56.991995,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1010,1023,1,89.0,2023-08-09 10:31:34.230201,start,Follow/Neutral,,,,2023-08-09 10:31:35.881564,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1018,1031,1,90.0,2023-08-09 10:36:44.737864,start,Follow/Neutral,,,,2023-08-09 10:36:46.634725,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1020,1033,1,91.0,2023-08-09 10:37:34.868997,start,Follow/Neutral,,,,2023-08-09 10:37:36.514351,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1033,1046,1,92.0,2023-08-09 10:41:54.663741,start,Follow/Neutral,,,,2023-08-09 10:41:57.034178,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1041,1054,1,93.0,2023-08-09 10:44:51.360919,start,Follow/Neutral,,,,2023-08-09 10:44:54.083136,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1048,1061,1,94.0,2023-08-09 10:46:45.143607,start,Follow/Neutral,,,,2023-08-09 10:46:46.807501,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1067,1080,1,95.0,2023-08-09 10:53:32.812187,start,Follow/Neutral,,,,2023-08-09 10:53:34.750318,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1094,1107,1,96.0,2023-08-09 11:15:45.424014,start,Follow/Neutral,,,,2023-08-09 11:15:48.045295,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1106,1124,1,98.0,2023-08-09 11:42:37.382893,start,Follow/Neutral,,,,2023-08-09 11:42:39.86607,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1118,1136,1,99.0,2023-08-09 12:04:55.568281,start,Follow/Neutral,,,,2023-08-09 12:04:57.2043,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1120,1138,1,100.0,2023-08-09 12:05:34.919179,start,Follow/Neutral,,,,2023-08-09 12:05:36.558393,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1133,1151,1,101.0,2023-08-09 12:12:32.896516,start,Follow/Neutral,,,,2023-08-09 12:12:34.676026,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1153,1171,1,102.0,2023-08-09 12:24:32.709174,start,Follow/Neutral,,,,2023-08-09 12:24:34.500737,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1161,1179,1,103.0,2023-08-09 12:32:20.10883,start,Follow/Neutral,,,,2023-08-09 12:32:21.870019,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1162,1180,1,104.0,2023-08-09 12:32:54.148066,start,Follow/Neutral,,,,2023-08-09 12:32:55.685152,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1167,1185,1,105.0,2023-08-09 12:33:48.661434,start,Follow/Neutral,,,,2023-08-09 12:33:50.392907,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1202,1220,1,106.0,2023-08-09 12:53:58.858687,start,Follow/Neutral,,,,2023-08-09 12:54:00.463605,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1207,1225,1,107.0,2023-08-09 12:56:02.392583,start,Follow/Neutral,,,,2023-08-09 12:56:03.993154,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1220,1238,1,108.0,2023-08-09 13:01:43.500611,start,Follow/Neutral,,,,2023-08-09 13:01:45.137171,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1234,1252,1,109.0,2023-08-09 13:12:02.474497,start,Follow/Neutral,,,,2023-08-09 13:12:04.075943,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1245,1263,1,110.0,2023-08-09 13:24:57.59826,start,Follow/Neutral,,,,2023-08-09 13:25:00.032728,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1262,1280,1,111.0,2023-08-09 14:48:50.230958,start,Follow/Neutral,,,,2023-08-09 14:48:52.23886,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1274,1292,1,112.0,2023-08-09 15:43:49.810827,start,Follow/Neutral,,,,2023-08-09 15:43:51.894818,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1286,1304,1,113.0,2023-08-09 16:03:50.491811,start,Follow/Neutral,,,,2023-08-09 16:03:52.588238,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1298,1316,1,114.0,2023-08-09 17:00:26.7146,start,Follow/Neutral,,,,2023-08-09 17:00:28.574047,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1310,1328,1,115.0,2023-08-10 09:11:31.62275,start,Follow/Neutral,,,,2023-08-10 09:11:33.385409,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1322,1340,1,116.0,2023-08-10 09:27:57.649444,start,Follow/Neutral,,,,2023-08-10 09:27:59.581357,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1327,1345,1,117.0,2023-08-10 09:30:14.843308,start,Follow/Neutral,,,,2023-08-10 09:30:16.492265,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1340,1358,1,118.0,2023-08-10 09:39:35.131268,start,Follow/Neutral,,,,2023-08-10 09:39:36.697721,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1351,1369,1,120.0,2023-08-10 09:44:03.497711,start,Follow/Neutral,,,,2023-08-10 09:44:05.252955,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1359,1377,1,121.0,2023-08-10 09:46:51.868047,start,Follow/Neutral,,,,2023-08-10 09:46:53.343164,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1380,1398,1,122.0,2023-08-10 09:54:06.42977,start,Follow/Neutral,,,,2023-08-10 09:54:08.119961,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1395,1413,1,123.0,2023-08-10 10:01:46.2938,start,Follow/Neutral,,,,2023-08-10 10:01:47.821708,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1402,1420,1,124.0,2023-08-10 10:05:03.328332,start,Follow/Neutral,,,,2023-08-10 10:05:05.117691,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1417,1435,1,125.0,2023-08-10 10:16:41.602403,start,Follow/Neutral,,,,2023-08-10 10:16:43.15464,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1424,1442,1,126.0,2023-08-10 10:19:48.255176,start,Follow/Neutral,,,,2023-08-10 10:19:50.015303,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1436,1454,1,127.0,2023-08-10 10:26:48.966318,start,Follow/Neutral,,,,2023-08-10 10:26:50.486989,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1458,1481,1,129.0,2023-08-10 10:46:32.901529,start,Follow/Neutral,,,,2023-08-10 10:46:34.57991,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1476,1499,1,130.0,2023-08-10 11:19:16.55171,start,Follow/Neutral,,,,2023-08-10 11:19:18.186727,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1482,1505,1,131.0,2023-08-10 11:23:15.812278,start,Follow/Neutral,,,,2023-08-10 11:23:19.20679,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1500,1523,1,132.0,2023-08-10 12:02:38.314256,start,Follow/Neutral,,,,2023-08-10 12:02:39.879778,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1506,1529,1,133.0,2023-08-10 12:08:01.939028,start,Follow/Neutral,,,,2023-08-10 12:08:03.584784,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1525,1548,1,135.0,2023-08-10 12:47:36.710396,start,Follow/Neutral,,,,2023-08-10 12:47:38.256348,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1527,1550,1,136.0,2023-08-10 12:47:46.294422,start,Follow/Neutral,,,,2023-08-10 12:47:47.926972,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1531,1554,1,137.0,2023-08-10 12:48:31.327138,start,Follow/Neutral,,,,2023-08-10 12:48:33.161443,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1579,1603,1,140.0,2023-08-10 13:44:17.49707,start,Follow/Neutral,,,,2023-08-10 13:44:19.605114,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1591,1615,1,141.0,2023-08-10 14:05:32.559615,start,Follow/Neutral,,,,2023-08-10 14:05:34.146115,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1603,1636,1,144.0,2023-08-11 08:47:40.952179,start,Follow/Neutral,,,,2023-08-11 08:47:42.997639,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1612,1645,1,145.0,2023-08-11 08:58:17.441854,start,Follow/Neutral,,,,2023-08-11 08:58:19.097075,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1621,1654,1,146.0,2023-08-11 09:06:04.927662,start,Follow/Neutral,,,,2023-08-11 09:06:07.148141,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1631,1664,1,147.0,2023-08-11 09:09:46.369041,start,Follow/Neutral,,,,2023-08-11 09:09:48.113507,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1642,1675,1,148.0,2023-08-11 09:16:43.463412,start,Follow/Neutral,,,,2023-08-11 09:16:44.996074,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1651,1684,1,149.0,2023-08-11 09:19:17.011463,start,Follow/Neutral,,,,2023-08-11 09:19:22.138247,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,,,,2.0,1.8333333333333333
+1655,1688,1,150.0,2023-08-11 09:20:17.393894,start,Follow/Neutral,,,,,,,,Follow/Neutral,,,0.0,,,2.0,2.0
+1662,1695,1,151.0,2023-08-11 09:21:39.728259,start,Follow/Neutral,,,,2023-08-11 09:21:41.350718,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1689,1722,1,152.0,2023-08-11 09:29:59.658708,start,Follow/Neutral,,,,2023-08-11 09:30:01.337031,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1706,1739,1,153.0,2023-08-11 09:42:48.169113,start,Follow/Neutral,,,,2023-08-11 09:42:50.317516,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1724,1762,1,156.0,2023-08-14 14:03:41.178491,start,Follow/Neutral,,,,2023-08-14 14:03:43.53883,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1750,1788,1,158.0,2023-08-14 15:07:35.272645,start,Follow/Neutral,,,,2023-08-14 15:07:37.224474,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1781,1819,1,161.0,2023-08-14 15:45:25.163363,start,Follow/Neutral,,,,2023-08-14 15:45:26.87162,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,,,,2.0,1.8333333333333333
+1790,1828,1,162.0,2023-08-14 15:48:23.357642,start,Follow/Neutral,,,,2023-08-14 15:48:25.130829,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,1.0,,,2.0,1.8333333333333333
+1841,1879,1,167.0,2023-08-14 16:33:45.478571,start,Follow/Neutral,,,,2023-08-14 16:33:47.474297,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1865,1903,1,168.0,2023-08-16 09:25:50.668715,start,Follow/Neutral,,,,2023-08-16 09:25:52.521037,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1886,1924,1,170.0,2023-08-16 10:45:23.408733,start,Follow/Neutral,,,,2023-08-16 10:45:25.054784,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1902,1940,1,172.0,2023-08-16 11:29:30.993509,start,Follow/Neutral,,,,2023-08-16 11:29:32.673472,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1952,1990,1,175.0,2023-08-16 12:50:43.888153,start,Follow/Neutral,,,,2023-08-16 12:50:46.165289,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1963,2001,1,176.0,2023-08-16 13:02:37.511803,start,Follow/Neutral,,,,2023-08-16 13:02:39.52916,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1970,2008,1,177.0,2023-08-16 13:11:02.113779,start,Follow/Neutral,,,,2023-08-16 13:11:03.57448,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+1981,2019,1,178.0,2023-08-16 13:16:17.647381,start,Follow/Neutral,,,,2023-08-16 13:16:19.368248,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2000,2038,1,179.0,2023-08-16 13:31:13.908861,start,Follow/Neutral,,,,2023-08-16 13:31:15.662974,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2022,2060,1,181.0,2023-08-16 14:20:46.915858,start,Follow/Neutral,,,,2023-08-16 14:20:48.647806,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2030,2068,1,182.0,2023-08-16 14:31:15.323212,start,Follow/Neutral,,,,2023-08-16 14:31:16.880306,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2040,2078,1,183.0,2023-08-16 14:38:15.232796,start,Follow/Neutral,,,,2023-08-16 14:38:17.067791,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2072,2110,1,186.0,2023-08-16 16:04:34.880146,start,Follow/Neutral,,,,2023-08-16 16:04:36.465501,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2089,2127,1,188.0,2023-08-16 16:47:08.650124,start,Follow/Neutral,,,,2023-08-16 16:47:10.157207,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2093,2131,1,189.0,2023-08-16 16:49:51.240614,start,Follow/Neutral,,,,2023-08-16 16:49:52.853177,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2113,2151,1,190.0,2023-08-16 17:28:35.905524,start,Follow/Neutral,,,,2023-08-16 17:28:37.496618,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2123,2161,1,191.0,2023-08-16 17:34:45.180165,start,Follow/Neutral,,,,2023-08-16 17:34:46.97259,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333
+2135,2173,1,192.0,2023-08-16 17:42:53.091879,start,Follow/Neutral,,,,2023-08-16 17:42:55.035187,"Hallo! Ich bin MIcha, dein Motivations-Chatbot. 
+                            Mein Ziel ist es, dir dabei zu helfen, dein Verhalten zu reflektieren und dich dabei zu unterstützen dir einen Plan für deine Verhaltensänderung zu erarbeiten. 
+                            Bitte denke über meine Fragen genau nach und sieh sie vorwiegend als Gedankenanstöße, die dich mental näher an dein Ziel bringen. 
+                            Ich bin nicht dafür da, dir Tipps oder Handlungsempfehlungen zu geben, sondern dafür, dir über deine Beweggründe und Werte klar zu werden. 
+                                
+                            Über welche Verhaltensänderung möchtest du heute sprechen?",,,Follow/Neutral,,,0.0,,,2.0,1.8333333333333333

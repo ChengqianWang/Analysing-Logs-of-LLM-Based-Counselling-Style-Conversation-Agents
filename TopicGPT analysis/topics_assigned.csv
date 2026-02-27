@@ -1,0 +1,499 @@
+chat_id,topic
+1.0,Procrastination
+1.0,Self-Reflection
+1.0,Emotional Well-being
+1.0,Family and Social Relationships
+2.0,Procrastination
+2.0,Goal Setting
+2.0,Patience
+3.0,Procrastination
+3.0,Goal Setting
+3.0,Self-Reflection
+4.0,Healthy Eating
+4.0,Fear of Failure
+5.0,Healthy Eating
+5.0,Weight Loss
+5.0,Self-Reflection
+5.0,Goal Setting
+5.0,Behavioral Change
+6.0,Procrastination
+6.0,Self-Reflection
+7.0,Healthy Eating
+7.0,Emotional Connection to Food
+7.0,Self-Reflection
+8.0,Healthy Eating
+8.0,Goal Setting
+9.0,Procrastination
+9.0,Self-Reflection
+10.0,Procrastination
+10.0,Self-Reflection
+10.0,Goal Setting
+10.0,Productivity
+11.0,Procrastination
+11.0,Self-Reflection
+12.0,Procrastination
+12.0,Motivation and Confidence
+12.0,Distraction Management
+12.0,Behavioral Change
+13.0,Healthy Eating
+13.0,Self-Reflection
+13.0,Behavioral Change
+14.0,Procrastination
+14.0,Discipline
+14.0,Goal Setting
+14.0,Gradual Change
+15.0,Fear of Failure
+15.0,Healthy Eating
+15.0,Self-Reflection
+15.0,Discipline
+16.0,Procrastination
+16.0,Self-Reflection
+17.0,Healthy Eating
+17.0,Weight Loss
+17.0,Motivation and Confidence
+17.0,Stress Management
+18.0,Fear of Failure
+18.0,Self-Reflection
+18.0,Behavioral Change
+18.0,Motivation and Confidence
+19.0,Procrastination
+19.0,Self-Reflection
+19.0,Behavioral Change
+19.0,Motivation and Confidence
+21.0,Healthy Eating
+21.0,Self-Reflection
+21.0,Behavioral Change
+22.0,Procrastination
+22.0,Behavioral Change
+22.0,Motivation and Confidence
+23.0,Healthy Eating
+23.0,Emotional Connection to Food
+23.0,Self-Reflection
+24.0,Procrastination
+24.0,Self-Reflection
+24.0,Motivation and Confidence
+25.0,Procrastination
+25.0,Motivation and Confidence
+25.0,Goal Setting
+26.0,Healthy Eating
+26.0,Self-Reflection
+26.0,Seeking External Support
+26.0,Goal Setting
+27.0,Healthy Eating
+27.0,Motivation and Confidence
+27.0,Self-Reflection
+28.0,Procrastination
+28.0,Self-Reflection
+28.0,Motivation and Confidence
+28.0,Behavioral Change
+29.0,Behavioral Change
+29.0,Self-Reflection
+31.0,Healthy Eating
+31.0,Goal Setting
+31.0,Financial Stability
+32.0,Self-Reflection
+32.0,Sustainability
+32.0,Environment Design
+33.0,Healthy Eating
+33.0,Weight Loss
+33.0,Self-Reflection
+36.0,Healthy Eating
+36.0,Emotional Connection to Food
+36.0,Weight Loss
+37.0,Climate Crisis
+37.0,Self-Reflection
+37.0,Gradual Change
+37.0,Environment Design
+38.0,Healthy Eating
+38.0,Self-Reflection
+39.0,Procrastination
+39.0,Motivation and Confidence
+39.0,Goal Setting
+40.0,Procrastination
+40.0,Self-Reflection
+41.0,Healthy Eating
+41.0,Self-Reflection
+41.0,Motivation and Confidence
+41.0,Emotional Well-being
+41.0,Goal Setting
+42.0,Procrastination
+42.0,Behavioral Change
+42.0,Motivation and Confidence
+43.0,Procrastination
+43.0,Self-Reflection
+44.0,Procrastination
+44.0,Self-Reflection
+44.0,Goal Setting
+44.0,Support System
+45.0,Procrastination
+45.0,Self-Reflection
+45.0,Behavioral Change
+48.0,Procrastination
+48.0,Self-Reflection
+49.0,Healthy Eating
+49.0,Self-Reflection
+49.0,Goal Setting
+49.0,Support System
+50.0,Procrastination
+50.0,Motivation and Confidence
+50.0,Self-Reflection
+51.0,Procrastination
+51.0,Motivation and Confidence
+52.0,Procrastination
+52.0,Self-Reflection
+52.0,Discipline
+52.0,Emotional Well-being
+52.0,Goal Setting
+53.0,Healthy Eating
+53.0,Self-Reflection
+53.0,Weight Loss
+55.0,Procrastination
+55.0,Fear of Failure
+55.0,Goal Setting
+56.0,Procrastination
+56.0,Self-Reflection
+57.0,Procrastination
+57.0,Self-Reflection
+57.0,Behavioral Change
+58.0,Procrastination
+58.0,Self-Reflection
+59.0,Self-Reflection
+59.0,Sustainability
+59.0,Support System
+60.0,Healthy Eating
+60.0,Weight Loss
+60.0,Self-Reflection
+61.0,Fear of Failure
+61.0,Sustainability
+61.0,Behavioral Change
+61.0,Environment Design
+61.0,Meat Consumption
+62.0,Healthy Eating
+62.0,Weight Loss
+62.0,Self-Reflection
+63.0,Healthy Eating
+63.0,Self-Reflection
+63.0,Goal Setting
+63.0,Motivation and Confidence
+64.0,Fear of Failure
+64.0,Healthy Eating
+65.0,Procrastination
+65.0,Goal Setting
+65.0,Seeking External Support
+66.0,Procrastination
+66.0,Self-Reflection
+67.0,Healthy Eating
+67.0,Weight Loss
+67.0,Self-Reflection
+69.0,Procrastination
+69.0,Motivation and Confidence
+69.0,Goal Setting
+69.0,Self-Reflection
+70.0,Healthy Eating
+70.0,Goal Setting
+71.0,Procrastination
+71.0,Behavioral Change
+72.0,Procrastination
+72.0,Self-Reflection
+73.0,Healthy Eating
+73.0,Self-Reflection
+74.0,Procrastination
+74.0,Self-Reflection
+75.0,Procrastination
+75.0,Fear of Failure
+75.0,Behavioral Change
+75.0,Self-Reflection
+76.0,Procrastination
+76.0,Self-Reflection
+76.0,Goal Setting
+76.0,Emotional Well-being
+80.0,Healthy Eating
+80.0,Fear of Failure
+81.0,Procrastination
+81.0,Self-Reflection
+81.0,Fear of Failure
+83.0,Healthy Eating
+83.0,Weight Loss
+83.0,Motivation and Confidence
+84.0,Healthy Eating
+84.0,Self-Reflection
+84.0,Behavioral Change
+84.0,Seeking External Support
+85.0,Procrastination
+85.0,Motivation and Confidence
+85.0,Self-Reflection
+85.0,Task Prioritization
+86.0,Procrastination
+86.0,Self-Reflection
+86.0,Goal Setting
+87.0,Procrastination
+87.0,Self-Reflection
+88.0,Healthy Eating
+88.0,Self-Reflection
+88.0,Social Relationships
+88.0,Goal Setting
+89.0,Procrastination
+89.0,Motivation and Confidence
+89.0,Support System
+89.0,Reward System
+90.0,Climate Crisis
+90.0,Self-Reflection
+90.0,Sustainability
+91.0,Procrastination
+91.0,Self-Reflection
+92.0,Procrastination
+92.0,Self-Reflection
+93.0,Climate Crisis
+93.0,Self-Reflection
+93.0,Sustainable Living
+93.0,Gradual Change
+94.0,Healthy Eating
+94.0,Self-Reflection
+94.0,Gradual Change
+94.0,Emotional Response
+95.0,Healthy Eating
+95.0,Goal Setting
+95.0,Motivation and Confidence
+96.0,Procrastination
+96.0,ADHD
+96.0,Motivation and Confidence
+96.0,Self-Reflection
+98.0,Healthy Eating
+98.0,Self-Reflection
+99.0,Procrastination
+99.0,Motivation and Confidence
+100.0,Procrastination
+100.0,Motivation and Confidence
+100.0,Self-Reflection
+101.0,Healthy Eating
+101.0,Self-Reflection
+101.0,Emotional Response
+102.0,Procrastination
+102.0,Fear of Failure
+103.0,Goal Setting
+103.0,Healthy Eating
+103.0,Motivation and Confidence
+103.0,Behavioral Change
+104.0,Procrastination
+104.0,Self-Reflection
+105.0,Healthy Eating
+105.0,Goal Setting
+105.0,Self-Reflection
+106.0,Procrastination
+106.0,Goal Setting
+107.0,Healthy Eating
+107.0,Fear of Failure
+107.0,Self-Reflection
+108.0,Procrastination
+108.0,Motivation and Confidence
+108.0,Goal Setting
+109.0,Procrastination
+109.0,Fear of Failure
+109.0,Motivation and Confidence
+109.0,Self-Reflection
+110.0,Healthy Eating
+110.0,Stress Management
+110.0,Goal Setting
+111.0,Procrastination
+111.0,Self-Reflection
+112.0,Procrastination
+112.0,Behavioral Change
+112.0,Self-Reflection
+113.0,Procrastination
+113.0,Self-Reflection
+113.0,Support System
+113.0,Goal Setting
+114.0,Procrastination
+114.0,Self-Reflection
+114.0,Behavioral Change
+114.0,ADHD
+115.0,Procrastination
+115.0,Self-Reflection
+115.0,Behavioral Change
+115.0,Emotional Well-being
+116.0,Procrastination
+116.0,Self-Reflection
+116.0,Motivation and Confidence
+117.0,Procrastination
+117.0,Self-Reflection
+117.0,Behavioral Change
+118.0,Procrastination
+118.0,Self-Reflection
+118.0,Goal Setting
+118.0,Risk-Taking
+120.0,Healthy Eating
+120.0,Weight Loss
+120.0,Emotional Connection to Food
+120.0,Support System
+120.0,Discipline
+121.0,Procrastination
+121.0,Self-Reflection
+122.0,Self-Reflection
+122.0,Climate Crisis
+122.0,Sustainability
+122.0,Discipline
+123.0,Procrastination
+123.0,Self-Reflection
+123.0,Goal Setting
+124.0,Procrastination
+124.0,Self-Reflection
+124.0,Discipline
+124.0,Goal Setting
+124.0,Reward System
+125.0,Procrastination
+125.0,Self-Reflection
+126.0,Healthy Eating
+126.0,Weight Loss
+126.0,Self-Reflection
+127.0,Procrastination
+127.0,Fear of Failure
+129.0,Procrastination
+129.0,Behavioral Change
+129.0,Motivation and Confidence
+129.0,Self-Reflection
+129.0,Exercise
+130.0,Procrastination
+130.0,Self-Reflection
+130.0,Goal Setting
+131.0,Healthy Eating
+131.0,Motivation and Confidence
+131.0,Goal Setting
+132.0,Procrastination
+132.0,Fear of Failure
+132.0,Self-Reflection
+133.0,Fear of Failure
+133.0,Healthy Eating
+133.0,Motivation and Confidence
+133.0,Emotional Connection to Food
+135.0,Procrastination
+135.0,Self-Reflection
+136.0,Healthy Eating
+136.0,Self-Reflection
+136.0,Behavioral Change
+136.0,Goal Setting
+137.0,Procrastination
+137.0,Self-Reflection
+137.0,Goal Setting
+138.0,Procrastination
+138.0,Motivation and Confidence
+140.0,Procrastination
+140.0,Self-Reflection
+141.0,Procrastination
+141.0,Behavioral Change
+141.0,Self-Reflection
+141.0,Distraction Management
+141.0,Goal Setting
+144.0,Procrastination
+144.0,Motivation and Confidence
+144.0,Goal Setting
+145.0,Procrastination
+145.0,Fear of Failure
+145.0,Emotional Response
+146.0,Procrastination
+146.0,Self-Reflection
+146.0,Goal Setting
+147.0,Procrastination
+147.0,Motivation and Confidence
+147.0,Emotional Response
+148.0,Fear of Failure
+148.0,Climate Crisis
+148.0,Self-Reflection
+149.0,Procrastination
+149.0,Self-Reflection
+149.0,Motivation and Confidence
+149.0,Social Media Influence
+150.0,Sustainability
+150.0,Waste Management
+150.0,Environment Design
+151.0,Procrastination
+151.0,Self-Reflection
+152.0,Healthy Eating
+152.0,Self-Reflection
+152.0,Behavioral Change
+152.0,Emotional Response
+153.0,Procrastination
+153.0,Self-Reflection
+153.0,Goal Setting
+156.0,Procrastination
+156.0,Behavioral Change
+156.0,Self-Reflection
+156.0,Use of To-Do Lists
+157.0,Procrastination
+157.0,Self-Reflection
+158.0,Sustainable Living
+158.0,Behavioral Change
+158.0,Environment Design
+160.0,Procrastination
+160.0,Self-Reflection
+160.0,Emotional Well-being
+160.0,Support System
+161.0,Healthy Eating
+161.0,Goal Setting
+161.0,Fear of Failure
+162.0,Healthy Eating
+162.0,Fear of Failure
+162.0,Self-Reflection
+165.0,Healthy Eating
+165.0,Self-Reflection
+165.0,Goal Setting
+167.0,Procrastination
+167.0,Motivation and Confidence
+167.0,Behavioral Change
+167.0,Goal Setting
+168.0,Procrastination
+168.0,Self-Reflection
+170.0,Procrastination
+170.0,Self-Reflection
+171.0,Procrastination
+171.0,Self-Reflection
+172.0,Fear of Failure
+172.0,Healthy Eating
+172.0,Weight Loss
+172.0,Motivation and Confidence
+175.0,Procrastination
+175.0,Self-Reflection
+176.0,Climate Crisis
+176.0,Sustainability
+176.0,Behavioral Change
+176.0,Second-Hand Shopping
+176.0,Social Media Influence
+177.0,Climate Crisis
+177.0,Fear of Failure
+177.0,Comfort Zone
+177.0,Transportation Choices
+177.0,Financial Stability
+178.0,Procrastination
+178.0,Self-Reflection
+178.0,Behavioral Change
+178.0,Emotional Well-being
+179.0,Procrastination
+179.0,Self-Reflection
+181.0,Procrastination
+181.0,Academic Success
+181.0,Motivation and Confidence
+181.0,Behavioral Change
+182.0,Healthy Eating
+182.0,Self-Reflection
+182.0,Goal Setting
+183.0,Procrastination
+183.0,Goal Setting
+183.0,Self-Reflection
+183.0,Emotional Response
+186.0,Procrastination
+186.0,Self-Reflection
+186.0,Motivation and Confidence
+188.0,Procrastination
+188.0,Fear of Failure
+189.0,Procrastination
+189.0,Self-Reflection
+190.0,Procrastination
+190.0,Self-Reflection
+190.0,Distraction Management
+190.0,Goal Setting
+191.0,Procrastination
+191.0,Self-Reflection
+191.0,Motivation and Confidence
+191.0,Goal Setting
+191.0,Behavioral Change
+192.0,Procrastination
+192.0,Self-Reflection

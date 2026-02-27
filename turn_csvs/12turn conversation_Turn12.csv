@@ -1,0 +1,298 @@
+Unnamed: 0,utterance_id,turn_id,chat_id,datetime,user_utterance,valence,label,sublabel,bot_action,bot_datetime,bot_utterance,user_rating,user_rating_explanation,valence_new,label_new,sublabel_new,Contained technical issue,user_rating_english,user_rating_explanation_english,user_sentiment,bot_sentiment
+30,31,12,1.0,2023-08-07 15:53:13.40148,"Ich dachte, das sagst du mir.",Follow/Neutral,,,Goodbye,2023-08-07 15:53:15.764283,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,2.0,3.0
+56,57,12,2.0,2023-08-07 15:59:14.498595,Mir einen Termin zu setzen,Follow/Neutral,,,Goodbye,2023-08-07 15:59:16.513007,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+61,62,12,4.0,2023-08-07 15:59:41.191971,"Auf Grillfeiern Gemüse als Alternative essen, Verzicht auf Bier",change,Commitment,,Goodbye,2023-08-07 15:59:42.924575,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+79,80,12,5.0,2023-08-07 16:06:08.114324,Weniger ungesunde Nahrung zu mir nehmen und mich über Alternativen zu informieren.,change,Commitment,,Goodbye,2023-08-07 16:06:09.901329,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+87,88,12,6.0,2023-08-07 16:09:42.339103,Das weiß ich nicht,Follow/Neutral,,,Goodbye,2023-08-07 16:09:44.355287,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+88,89,12,3.0,2023-08-07 16:09:56.510765,"Ich stelle mir mein Ziel, den Halbmarathon durch mehr Zeit fürs Training zu schaffen, konkret vor. ",change,Commitment,,Goodbye,2023-08-07 16:09:58.405975,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+91,92,12,7.0,2023-08-07 16:11:08.515043,Ich habe keine Ahnung.,Follow/Neutral,,,Goodbye,2023-08-07 16:11:10.499078,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,1.0,3.0
+95,96,12,8.0,2023-08-07 16:18:02.572839,"Mein nächster Schritt wird sein, mir ein Rezept für eine gesunde Mahlzeit zu suchen, dieses in die Küche zu legen und morgen zuzubereiten.",change,Commitment,,Goodbye,2023-08-07 16:18:04.235361,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,3.0,3.0
+142,143,12,11.0,2023-08-07 16:31:26.091879,"Ich werde versuchen, noch öfter große Aufgaben in kleine machbare Teilschritte zu zerlegen und mich nur auf den ersten Teilschritt fokussieren",change,Commitment,,Goodbye,2023-08-07 16:31:27.850892,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+144,145,12,10.0,2023-08-07 16:31:44.592468,Ich werde mich stärker auf das Fokussieren und Erkennen von neuen Aufgaben konzentrieren. Diese werde ich schnell angehen.,change,Commitment,,Goodbye,2023-08-07 16:31:46.266239,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+151,152,12,12.0,2023-08-07 16:35:53.285018,handy ausschalten,Follow/Neutral,,,Goodbye,2023-08-07 16:35:55.265574,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+159,160,12,13.0,2023-08-07 16:38:47.886873,Ich bleibe auf meinem Weg und werde eher auf vegetarische Produkte oder auf Fisch statt Fleisch zurückgreifen,change,Commitment,,Goodbye,2023-08-07 16:38:49.62464,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+161,162,12,9.0,2023-08-07 16:39:55.580631,"Ich werde mir konkrete Schritte überlegen, z.B. wie ich meine Motivation steigern kann oder wie ich meinen Tag besser strukturiere.",change,Commitment,,Goodbye,2023-08-07 16:39:57.411771,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+180,181,12,14.0,2023-08-07 16:48:03.375814,"Ich werde jeden Tag eine Aufgabe erledigen, die ich normalerweise aufschieben würde.",Follow/Neutral,,,Goodbye,2023-08-07 16:48:05.362393,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,3.0,3.0
+190,191,12,16.0,2023-08-07 16:56:02.768736,Ich werde neue Strategien finden müssen.,change,Reason,need,Goodbye,2023-08-07 16:56:05.049022,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,need,0.0,,,2.0,3.0
+191,192,12,15.0,2023-08-07 16:56:04.667083,"ich werde versuchen jeden Tag zumindest etwas gesundes zu essen, sodass ich weniger Hunger auf süßes/salziges/fettiges habe bzw. das nur noch in kleinen Mengen und mit Genuss essen werde",change,Commitment,,Goodbye,2023-08-07 16:56:06.851,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+217,218,12,17.0,2023-08-07 17:17:20.662838,"Ich werde mich darum kümmern, mehr Entspannungsübungen in meinen Alttag einzubauen.",Follow/Neutral,,,Goodbye,2023-08-07 17:17:22.453516,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+224,225,12,19.0,2023-08-07 17:20:57.660287,"Ich werde mir vorstellen, wie ich mich fühle, nachdem ich meine Dokumente sortiert habe und es dann durchführen.",change,Commitment,,Goodbye,2023-08-07 17:20:59.357795,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+284,285,12,21.0,2023-08-07 17:40:57.422612,ich probiere alles aus was du vorgeschlagen hast,change,Taking Steps,,Goodbye,2023-08-07 17:40:59.16065,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,2.0,3.0
+301,302,12,23.0,2023-08-07 17:44:22.216995,"Ich versuche, meine positive Einstellung konkret umzusetzen, um zunächst zu verstehen, dass ich etwas verändern muss",change,Taking Steps,,Goodbye,2023-08-07 17:44:24.252926,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,3.0,3.0
+308,309,12,25.0,2023-08-07 17:46:36.911464,Ich suche nach Stellenanzeigen in einer anderen Abteilung und schreibe eine Bewerbung,Follow/Neutral,,,Goodbye,2023-08-07 17:46:39.131228,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+310,311,12,26.0,2023-08-07 17:47:05.814044,"Einen Ernährungsplan entwickeln, um meine Ernährung langfristig umzustellen",change,Commitment,,Goodbye,2023-08-07 17:47:07.516021,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+312,313,12,24.0,2023-08-07 17:48:19.205631,"Von 10 aufgaben die 3 wichtigsten erledigen, Kein stress,",Follow/Neutral,,,Goodbye,2023-08-07 17:48:21.305901,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,3.0,3.0
+317,318,12,22.0,2023-08-07 17:51:27.731094,Zeiten ohne  handy festlegen,Follow/Neutral,,,Goodbye,2023-08-07 17:51:29.544084,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+320,321,12,27.0,2023-08-07 17:55:17.156871,Ich werde mich mal auf die suche machen um zu sehen woher ich die einzelnen Zutaten  günstig in größeren mengen her bekomme,Follow/Neutral,,,Goodbye,2023-08-07 17:55:18.929218,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,,,,2.0,3.0
+332,333,12,28.0,2023-08-08 10:01:25.420139,"I'm Urlaub darüber nachdenken, welche neue Aufgabe ich nach dem Urlaub angehe",Follow/Neutral,,,Goodbye,2023-08-08 10:01:27.346905,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+361,362,12,31.0,2023-08-08 10:31:41.20201,Ich mach mir jetzt erstmal eine Einkaufsliste,change,Commitment,,Goodbye,2023-08-08 10:31:43.155781,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+370,371,12,32.0,2023-08-08 10:43:26.095956,Umzuziehen und dann die öffentlichen Verkehrsmittel zu benutzen.,change,Commitment,,Goodbye,2023-08-08 10:43:27.761067,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,3.0,3.0
+429,430,12,36.0,2023-08-08 12:08:32.288289,bessere Auswahl von Lebensmitteln,change,Reason,General Reason,Goodbye,2023-08-08 12:08:34.529301,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+456,457,12,38.0,2023-08-08 12:18:37.626612,Nach alternativen zu fleischgerichten gucken.,Follow/Neutral,,,Goodbye,2023-08-08 12:18:39.672846,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+458,459,12,40.0,2023-08-08 12:19:35.978803,Ich habe kein konkreten nächsten Schritt,sustain,Reason,ability,Goodbye,2023-08-08 12:19:40.955469,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,sustain,Reason,ability,1.0,,,1.0,3.0
+460,461,12,37.0,2023-08-08 12:20:38.726988,"Ich werde nach nachhaltigeren Reiserouten schauen, da ich damit nicht auf andere Menschen angewiesen bin",change,Commitment,,Goodbye,2023-08-08 12:20:40.594106,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+461,462,12,39.0,2023-08-08 12:20:40.377705,Ich möchte ein Exposé für meine Masterarbeit schreiben ,Follow/Neutral,,,Goodbye,2023-08-08 12:20:42.313569,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,3.0,3.0
+473,474,12,41.0,2023-08-08 12:31:42.614831,Zucker und Weißmehlprodukt meiden.,change,Commitment,,Goodbye,2023-08-08 12:31:44.811488,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+532,533,12,44.0,2023-08-08 12:54:24.026128,Ich werde mir bestimmte Zeiten für bestimmte Aufgaben setzen,change,Commitment,,Goodbye,2023-08-08 12:54:26.080338,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+533,534,12,45.0,2023-08-08 12:54:45.024661,Strategien entwickeln um mit den Situationen umzugehen,change,Commitment,,Goodbye,2023-08-08 12:54:47.0076,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+536,537,12,42.0,2023-08-08 12:55:19.420614,"Ich werde versuchen, mein Problem mit der Pomodoro-Technik zu beheben.",change,Commitment,,Goodbye,2023-08-08 12:55:21.424621,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+600,601,12,51.0,2023-08-08 13:36:55.401688,"Keine Ahnung, mir wurde ja nichts empfohlen",Follow/Neutral,,,Goodbye,2023-08-08 13:36:57.158549,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,3.0,3.0
+601,602,12,49.0,2023-08-08 13:37:16.538407,Gesunde Lebensmittel einkaufen,change,Commitment,,Goodbye,2023-08-08 13:37:18.438345,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,1.0,,,2.0,3.0
+604,605,12,50.0,2023-08-08 13:37:43.991864,"Ich werde mich, jedes Mal wenn ich prokrastiniere, oder den Drang dazu verspüre, an meiner Motivation erinnern, nämlich dafür, besser für meine Freundin und zukünftige Kinder zu sorgen.",change,Reason,General Reason,Goodbye,2023-08-08 13:37:45.815393,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,3.0,3.0
+609,610,12,52.0,2023-08-08 13:43:13.936646,"Eine Routine erstellen, bei der ich Aufgaben zu bestimmten Zeiten bewältigen werde und mich dafür belohnen werde um die Gewöhnung leichter zu machen.e",change,Commitment,,Goodbye,2023-08-08 13:43:15.740121,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,,,,3.0,3.0
+622,623,12,53.0,2023-08-08 13:52:28.93046,Ich werde versuchen öfter und gesund zu kochen,change,Commitment,,Goodbye,2023-08-08 13:52:31.052304,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+638,639,12,55.0,2023-08-08 14:06:12.712144,Eine To-Do Liste für die Woche und die nächsten Tage erstellen,Follow/Neutral,,,Goodbye,2023-08-08 14:06:14.527748,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+656,657,12,56.0,2023-08-08 14:26:13.183369,"Ich werde mir für meine Aufgaben konkrete Zeitfenster festlegen, bei denen ich weiß, dass ich mich so lange tatsächlich konzentrieren kann",change,Commitment,,Goodbye,2023-08-08 14:26:15.27383,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+669,670,12,57.0,2023-08-08 14:40:35.514848,"keine ahnung, du bringst ja nie einen gedanken zuende, wenn es drauf ankommt.",Follow/Neutral,,,Goodbye,2023-08-08 14:40:38.338432,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,1.0,3.0
+674,675,12,58.0,2023-08-08 14:45:06.162673,"Ich denke, ich werde versuchen mir kleine Zeitintervalle abzugrenzen, in denen ich mich fest auf eine Sache konzentriere.",change,Commitment,,Goodbye,2023-08-08 14:45:08.041357,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+690,691,12,59.0,2023-08-08 14:59:40.255907,Nichtstun,Follow/Neutral,,,Goodbye,2023-08-08 14:59:42.336692,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+711,712,12,60.0,2023-08-08 15:08:19.426503,"Ich werde mich konkret informieren, und werde mir ein Ernährungsplan erstellen lassen",change,Commitment,,Goodbye,2023-08-08 15:08:21.165639,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,1.0,,,2.0,3.0
+734,735,12,64.0,2023-08-08 15:16:50.720603,mehr gesunde Lebensmittel essen,change,Commitment,,Goodbye,2023-08-08 15:16:52.672841,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+739,740,12,62.0,2023-08-08 15:20:30.322842,Ich werde einen Plan erstellen.,change,Commitment,,Goodbye,2023-08-08 15:20:32.540012,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+740,741,12,63.0,2023-08-08 15:20:55.474991,"geh nach hause chatbot, du bist betrunken.",Follow/Neutral,,,Goodbye,2023-08-08 15:20:57.186485,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+746,747,12,61.0,2023-08-08 15:42:04.718935,Ich werde mir feste Tage überlegen an denen ich kein Fleisch mehr essen werde.,change,Commitment,,Goodbye,2023-08-08 15:42:06.988301,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+768,769,12,65.0,2023-08-08 16:48:40.499086,"Ich werde einige deiner Ideen umsetzen, vor allem die Tools, welche du empfohlen hast, um mich im Internet nicht so schnell ablenken zu lassen. Ich werde versuchen mich an einen festen Plan mit festgesetzten Zielen zu halten und mich zwischendurch mit Pausen zu belohnen.",change,Commitment,,Goodbye,2023-08-08 16:48:42.641258,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+797,798,12,66.0,2023-08-08 16:58:49.283464,"Ich werde mir Gedanken darüber machen, wie ich mir Anreize schaffen kann oder ob ich vielleicht im falschen Beruf stecke, wenn diese nicht natürlich da sind",change,Commitment,,Goodbye,2023-08-08 16:58:51.402439,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+813,814,12,67.0,2023-08-08 17:03:06.076531,"Ich würde recherchieren welche Obst- und Gemüsesorten gut verträglich sind und würde schauen, ob ich diese in den Supermärkten hier kaufen kann. ",Follow/Neutral,,,Goodbye,2023-08-08 17:03:10.073644,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+834,835,12,70.0,2023-08-08 17:07:27.465043,Rituale zu den Essenszeiten und Gesunde Snacks vorbereiten,change,Commitment,,Goodbye,,,,,change,Commitment,,0.0,,,2.0,2.0
+837,838,12,69.0,2023-08-08 17:07:36.221428,einen anderen bot fragen,Follow/Neutral,,,Goodbye,2023-08-08 17:07:37.940108,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+857,858,12,73.0,2023-08-08 17:13:27.062083,Ich werde mir Listen zum einkaufen schreiben und für die einzelnen Tage das Essen und das benötigte Obst und Gemüse planen,change,Commitment,,Goodbye,2023-08-08 17:13:29.991712,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+861,862,12,71.0,2023-08-08 17:15:05.614101,"Ich habe keine Ahnung... du hast mir nichts empfohlen, das ich nicht bereits anwende... :)",Follow/Neutral,,,Goodbye,2023-08-08 17:15:07.534639,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,1.0,3.0
+863,864,12,72.0,2023-08-08 17:15:19.561705,"Ich versuche, an meine Zukunft zu denken und mich zu motivieren, mehr zu tun.",change,Taking Steps,,Goodbye,2023-08-08 17:15:21.805766,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,2.0,3.0
+873,874,12,75.0,2023-08-08 17:25:59.920461,"Ich werde mich nach einer App, im App-Store suchen, mit der man To Do Listen erstellen kann.",change,Commitment,,Goodbye,2023-08-08 17:26:01.761107,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+874,875,12,74.0,2023-08-08 17:26:16.885394,"Ich werde mir kleinere Etappen vornehmen, mich mehr belohnen. Andere nochmal um Hilfe fragen, einfach drauflos schreiben um etwas rauszukriegen. Danke für die Hilfe!",change,Commitment,,Goodbye,2023-08-08 17:26:19.131127,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+918,931,12,80.0,2023-08-09 09:20:09.103484,Ich werde zuerst mal schauen ob ich Rezepte finde die ich nachkochen kann,Follow/Neutral,,,Goodbye,2023-08-09 09:20:11.10873,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+947,960,12,83.0,2023-08-09 09:29:35.372193,ich werde mit kleinen zielen anfangen und die dann weirer setzen,change,Commitment,,Goodbye,2023-08-09 09:29:37.25572,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+959,972,12,81.0,2023-08-09 09:32:56.869679,und?,Follow/Neutral,,,Goodbye,2023-08-09 09:32:58.664974,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+969,982,12,84.0,2023-08-09 09:39:02.444054,Welche Vorschläge kannst du mir machen?,Follow/Neutral,,,Goodbye,2023-08-09 09:39:04.378112,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+970,983,12,85.0,2023-08-09 09:39:12.957427,"Ich werde versuchen, mir eine bestimmte Zeit morgen zu nehmen, in der mich keiner stören soll, damit ich dann schon erste To-Dos abarbeiten kann ",change,Commitment,,Goodbye,2023-08-09 09:39:14.948019,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1005,1018,12,86.0,2023-08-09 10:05:24.958558,"Ich möchte mir einen 10 Minuten Timer stellen und versuchen mich in dieser Zeit nur auf eine Aufgabe zu konzentrieren. Ich hoffe, dass ich so lerne meine Gedanken zu fokussieren.",change,Reason,desire,Goodbye,2023-08-09 10:05:26.812356,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,desire,0.0,,,2.5,3.0
+1007,1020,12,87.0,2023-08-09 10:05:43.461641,Mir eine liste mit den nächsten schritten anzulegen,change,Commitment,,Goodbye,2023-08-09 10:05:45.400423,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1009,1022,12,88.0,2023-08-09 10:06:44.555706,meine Ernährung an zu passen,change,Reason,General Reason,Goodbye,2023-08-09 10:06:46.310337,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1032,1045,12,89.0,2023-08-09 10:41:15.654346,kaffe trinken,change,Reason,General Reason,Goodbye,2023-08-09 10:41:17.72188,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1056,1069,12,90.0,2023-08-09 10:48:35.358807,Beim Kauf von Möbeln gebrauchte zu kaufen,Follow/Neutral,,,Goodbye,2023-08-09 10:48:37.119688,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,3.0,3.0
+1074,1087,12,92.0,2023-08-09 10:55:42.167441,"Keine Ahnung. Weiter mit voraussichtlich mäßigem Erfolg versuchen, nicht zu prokrastinieren.",Follow/Neutral,,,Goodbye,2023-08-09 10:55:44.463764,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,2.0,3.0
+1083,1096,12,93.0,2023-08-09 10:59:11.66527,Einmal in der Woche zu Fuß gehen,change,Taking Steps,,Goodbye,2023-08-09 10:59:14.257743,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,1.0,,,3.0,3.0
+1088,1101,12,91.0,2023-08-09 11:01:55.763067,wieder auf alte methoden zurückgreifen und probieren ob es diesmal klappt,change,Commitment,,Goodbye,2023-08-09 11:01:57.763782,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1092,1105,12,94.0,2023-08-09 11:06:09.466191,"das ich alleine oder mit Hilfe meine Essgewohnheiten analysiere, mir Infos hole, welche Lebensmittel passender für meine gesunde Ernährung sind, damit ich eine grosse Abwechslung beim Essen habe und auch immer ein Sättigungsgefühl habe und nicht kurze Zeit später was ungesundes zu essen nur weil ich schon wieder hunger habe",change,Taking Steps,,Goodbye,2023-08-09 11:06:11.183867,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,3.0,3.0
+1093,1106,12,95.0,2023-08-09 11:08:01.390372,Ich werde weniger Fast Food essen und gesünder einkaufen,change,Commitment,,Goodbye,2023-08-09 11:08:03.480694,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1105,1123,12,96.0,2023-08-09 11:29:26.14516,Ich weiß es nciht.,Follow/Neutral,,,Goodbye,2023-08-09 11:29:28.008872,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,2.0,3.0
+1117,1135,12,98.0,2023-08-09 11:53:23.963839,feste Essenszeiten zu haben und nicht zwischendurch zu essen,change,Taking Steps,,Goodbye,2023-08-09 11:53:26.576462,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,1.0,3.0
+1144,1162,12,100.0,2023-08-09 12:16:55.275546,Ich weiß nicht. Ich hatte gehofft du hättest einen Ratschlag für mich.,Follow/Neutral,,,Goodbye,2023-08-09 12:16:57.002574,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1149,1167,12,99.0,2023-08-09 12:19:17.371367,Ich werde weitere Methoden raussuschen und diese ausprobieren.,change,Commitment,,Goodbye,2023-08-09 12:19:19.285209,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1154,1172,12,101.0,2023-08-09 12:24:59.872826,Zu dem Thema recherchieren,Follow/Neutral,,,Goodbye,2023-08-09 12:25:03.30809,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1194,1212,12,104.0,2023-08-09 12:41:19.897257,Mir ein festes Zeitfenster schaffen,change,Commitment,,Goodbye,2023-08-09 12:41:21.859668,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1196,1214,12,102.0,2023-08-09 12:41:54.198946,"Ich werde noch einmal versuchen meine Schritte besser zu planen und in kleine Etappen einzuteilen. Sobald ich das gemacht habe, werde ich jemanden miteinbeziehen, der mir dann helfen kann diese kleinen ziele zu erreichen ",change,Commitment,,Goodbye,2023-08-09 12:41:56.042681,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1198,1216,12,103.0,2023-08-09 12:42:40.195866,"ich werde zunächst die Mahlzeiten reduzieren, sodass ich ab 18 Uhr nur Wasser trinke",change,Commitment,,Goodbye,2023-08-09 12:42:42.075711,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1201,1219,12,105.0,2023-08-09 12:46:09.691811,"Ich möchte mir einen Plan für meine Woche machen, in dem ich viel Gemüse integriere und versuche schlechte zuckerhaltige Lebensmittel zu eliminieren.",change,Commitment,,Goodbye,2023-08-09 12:46:11.538571,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1219,1237,12,106.0,2023-08-09 13:01:36.973789,einen lernplan erstellen,change,Commitment,,Goodbye,2023-08-09 13:01:38.620786,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1232,1250,12,107.0,2023-08-09 13:10:35.312163,Nach Zeitsparenden und gleichzeitig gesunden Alternativen suchen,change,Commitment,,Goodbye,2023-08-09 13:10:37.023946,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1244,1262,12,108.0,2023-08-09 13:20:08.549072,"Ich werde als nächstes eine Tätigkeit ausführen, die mich für den Zeitaufwand finanziell entlohnt.",change,Commitment,,Goodbye,2023-08-09 13:20:10.773663,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1256,1274,12,109.0,2023-08-09 13:37:15.859328,Warten bis die Motivation zur Änderung steigt,change,Reason,General Reason,Goodbye,2023-08-09 13:37:17.537618,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1261,1279,12,110.0,2023-08-09 13:48:00.342624,Gesunde Rezepte zu suchen.,change,Commitment,,Goodbye,2023-08-09 13:48:02.347721,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1273,1291,12,111.0,2023-08-09 15:05:39.5452,"Morgens mehr Kaffee trinken? Keine Ahnung, versuche jetzt schon seit 48 Jahren, das in den Griff zu bekommen",change,Commitment,,Goodbye,2023-08-09 15:05:41.537227,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.5,3.0
+1285,1303,12,112.0,2023-08-09 15:58:39.939038,Theoretisch könnte ich einen restriktiven Zeitplan entwickeln. Dass ich das Handy nur in der Pause benutze. Und die Pausen von 15min auf 5 min verkürze.,change,Reason,ability,Goodbye,2023-08-09 15:58:42.317268,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,ability,0.0,,,1.0,3.0
+1297,1315,12,113.0,2023-08-09 16:20:41.491002,Sobald ich Zuhasue bin werde ich gemeinsam mit meinem Partner einen Wochenplan mit Bekohnungsaktivitäten erstellen,change,Commitment,,Goodbye,2023-08-09 16:20:43.286005,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1309,1327,12,114.0,2023-08-09 17:12:57.42789,sag du es mir,Follow/Neutral,,,Goodbye,2023-08-09 17:12:59.514547,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1321,1339,12,115.0,2023-08-10 09:23:44.084948,"ich werde meinen Arbeitsplatz umgestelaten, bzw. an einem anderen Ort arbeiten, an dem nicht schon der Ort die schlechten routiinen triggert. Ddann werde ich Zeitchunks einbauen, in denen Social media etc. gesperrt sind. und ich werde regelmäßig kurze Pausen einbauen, damit ich, wenn die Gedanken abschweifen, miich damit motivieren kann, adss bald bereits die nmächste kruze Pause ansteht, in der ich dann abschweifen darf",change,Commitment,,Goodbye,2023-08-10 09:23:45.893986,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1338,1356,12,116.0,2023-08-10 09:36:10.056258,Mein Handy während der Arbeitszeit seltener anzufassen,change,Reason,General Reason,Goodbye,2023-08-10 09:36:11.752029,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1381,1399,12,118.0,2023-08-10 09:54:23.075945,Mein nächster Schritt ist einfach mehr zu riskieren,change,Reason,General Reason,Goodbye,2023-08-10 09:54:24.653916,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1388,1406,12,120.0,2023-08-10 09:56:18.754587,"Ich möchte bei Einkäufen keine Süßigkeiten mehr einpacken, um zuhause gar nicht erst in Versuchung zu kommen",change,Reason,desire,Goodbye,2023-08-10 09:56:20.552329,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,desire,0.0,,,1.0,3.0
+1393,1411,12,121.0,2023-08-10 09:59:57.491029,Ich werde versuchen mehrere kleine Pausen einzulegen um insgesamt länger motiviert zu bleiben,change,Commitment,,Goodbye,2023-08-10 09:59:59.024233,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1409,1427,12,122.0,2023-08-10 10:10:12.08861,"mein nächster Schritt wird sein, mir zu überlegen, wie ich weniger Auto fahren kann.",change,Commitment,,Goodbye,2023-08-10 10:10:13.894047,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,3.0,3.0
+1423,1441,12,123.0,2023-08-10 10:19:22.619954,Ich werde mir in meinem kommenden Projekt kleine Ziele stecken und mich mit einer kleinen Pause belohnen!,change,Commitment,,Goodbye,2023-08-10 10:19:24.18766,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,3.0,3.0
+1443,1461,12,124.0,2023-08-10 10:28:24.395378,Eine Liste von Tätigkeiten erstellen,Follow/Neutral,,,Goodbye,2023-08-10 10:28:26.520467,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,2.0,3.0
+1449,1467,12,125.0,2023-08-10 10:31:04.991326,Ich werde öfter versuche Aaufgaben sofort zu erledigen anstatt sie auf nächsten Tag zu verschieben,change,Commitment,,Goodbye,2023-08-10 10:31:06.772529,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1455,1478,12,127.0,2023-08-10 10:35:44.177799,die Probleme zu analysieren,Follow/Neutral,,,Goodbye,2023-08-10 10:35:45.695323,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,2.0,3.0
+1471,1494,12,126.0,2023-08-10 10:53:56.772206,"Ich werde heute einen großen Einkauf tätigen, in dem ich mich mit viel Zutaten versorgen werde welche ich für meine gesunden Gerichte brauchen werde!",change,Commitment,,Goodbye,2023-08-10 10:53:58.440902,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1473,1496,12,129.0,2023-08-10 10:54:32.169308,heute Sport nach der Arbeit#,change,Commitment,,Goodbye,2023-08-10 10:54:34.172936,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1475,1498,12,117.0,2023-08-10 11:01:05.65399,"Mein nächster Schritt wird sein, mich von meinem Antrieb leiten zu lassen. Ich werde versuchen, meine Aufgaben so zu wählen, dass sie mir Freude und Sinn machen. Ich werde mich auf das konzentrieren, was mich begeistert und inspiriert. Ich werde auch meine Stärken und Leidenschaften nutzen, um meine Ziele zu erreichen. Ich glaube, dass ich dadurch meine Prokrastination überwinden und meine Zufriedenheit erhöhen kann.",change,Commitment,,Goodbye,2023-08-10 11:01:07.297769,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.6,3.0
+1495,1518,12,130.0,2023-08-10 11:30:02.368459,Ich werde einen Timer neben meinen Computer stellen und mir konkrete Zeiten zum Prokrastinieren verordnen,change,Commitment,,Goodbye,2023-08-10 11:30:04.257508,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1499,1522,12,131.0,2023-08-10 11:33:46.860142,"Ich werde mir einen konkreten Wochenplan aufstellen mit Mahlzeiten, die ich die Tage über essen möchte und werde dementsprechend einkaufen",change,Commitment,,Goodbye,2023-08-10 11:33:48.463479,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,1.0,,,1.0,3.0
+1521,1544,12,132.0,2023-08-10 12:18:50.559539,"Ich werde mir feste, wenn auch sehr kurze, ausschließliche Arbeitszeiten einrichten. Wenn ich es schaffe, 10min am Stück unabgelenkt zu arbeiten sollten mir bald schon 30min oder Stunden möglich sein.",change,Commitment,,Goodbye,2023-08-10 12:18:52.441857,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.5,3.0
+1523,1546,12,133.0,2023-08-10 12:19:56.06223,Ab und zu bewusster einkaufen aber mir dennoch nicht zu viel vorzuschreiben,sustain,Taking Steps,,Goodbye,2023-08-10 12:19:58.181244,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,sustain,Taking Steps,,0.0,,,1.0,3.0
+1563,1586,12,136.0,2023-08-10 12:58:50.975787,Mich über Tools zur Protokollierung informieren und dann ein entsprechendes Tool auswählen.,Follow/Neutral,,,Goodbye,2023-08-10 12:58:52.57265,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1564,1587,12,135.0,2023-08-10 12:59:27.817947,Das weiß ich nicht. ,Follow/Neutral,,,Goodbye,2023-08-10 12:59:29.459652,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1566,1589,12,137.0,2023-08-10 13:01:39.553757,"Wahrscheinlich mich mehr zu fokussieren, wenn ich denn arbeite oder lerne",change,Reason,General Reason,Goodbye,2023-08-10 13:01:41.159751,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1590,1614,12,140.0,2023-08-10 13:54:17.894134,"Ich mache einen Plan, in dem ich die Morgenstundne udn den Vormittag zum Arbeiten nutze.",change,Taking Steps,,Goodbye,2023-08-10 13:54:20.263364,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,2.0,3.0
+1602,1626,12,141.0,2023-08-10 14:16:16.088704,ich werde überlegen was mich ablenkt und versuche diese dinge aus meinen arbeitsumfeld herrauszunehmen wenn das geht,change,Commitment,,Goodbye,2023-08-10 14:16:17.694037,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1618,1651,12,144.0,2023-08-11 09:02:59.03215,"Es bleibt alles so, wie es ist",change,Reason,General Reason,Goodbye,2023-08-11 09:03:00.97727,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,2.0,3.0
+1633,1666,12,145.0,2023-08-11 09:10:11.589737,Ich werde mein Handy weglegen und konzentrierter arbeiten.,change,Commitment,,Goodbye,2023-08-11 09:10:13.332593,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1645,1678,12,146.0,2023-08-11 09:17:27.374208,Mein Handy konsequent wegzulegen,change,Commitment,,Goodbye,2023-08-11 09:17:29.361479,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1670,1703,12,147.0,2023-08-11 09:23:02.860333,"Ich werde kommende Aufgaben direkt bearbeiten, sobald ich diese erhalte ",Follow/Neutral,,,Goodbye,2023-08-11 09:23:04.763617,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1687,1720,12,149.0,2023-08-11 09:29:04.333615,"Ich werde mir überlegen, zu welchen Zeiten am Tag ich am besten Social Media nutzen kann und diese dann schriftlich fixieren.",change,Commitment,,Goodbye,2023-08-11 09:29:06.93189,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,,,,2.0,3.0
+1688,1721,12,148.0,2023-08-11 09:29:18.949262,"mein nächster Schritt wird sein, diese Interaktion zu beenden.",change,Commitment,,Goodbye,2023-08-11 09:29:20.63269,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,3.0,3.0
+1701,1734,12,151.0,2023-08-11 09:36:43.001513,Ich werde mich auf die erste Aufgabe auf meiner Liste konzentrieren und anfangen diese abzuarbeiten,change,Commitment,,Goodbye,2023-08-11 09:36:44.733586,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1704,1737,12,150.0,2023-08-11 09:39:32.290981,ich werde weitermachen wie bisher,change,Commitment,,Goodbye,2023-08-11 09:39:34.254243,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1718,1751,12,153.0,2023-08-11 09:52:31.675178,"Morgen werde ich das Handy erst in der Mittagspause nutzen, davor versuche ich zielstrebig zu arbeiten. ich gebe mir mühe",change,Commitment,,Goodbye,2023-08-11 09:52:33.989122,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1722,1755,12,152.0,2023-08-11 09:59:19.862882,"Schauen, wie ich Vitamin- und ballaststoffreiche Kost in meine Ernährung einbauen kann ohne großartig Abstriche zu machen.",change,Reason,General Reason,Goodbye,2023-08-11 09:59:21.787778,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Reason,General Reason,0.0,,,3.0,3.0
+1735,1773,12,156.0,2023-08-14 14:20:07.324872,Das  Heraussuchen von Methoden zum Erstellen der besagten TO-do Liste,Follow/Neutral,,,Goodbye,2023-08-14 14:20:09.85877,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1761,1799,12,158.0,2023-08-14 15:18:34.304767,öfter mit dem Rad zur Arbeit fahren,change,Commitment,,Goodbye,2023-08-14 15:18:36.18224,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1803,1841,12,161.0,2023-08-14 15:54:58.730403,Eine Liste erstellen mit Mahlzeiten und wann ich Sie kochen will,Follow/Neutral,,,Goodbye,2023-08-14 15:55:00.586356,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,,,,2.0,3.0
+1821,1859,12,162.0,2023-08-14 16:14:45.177787,Nein!,Follow/Neutral,,,Goodbye,2023-08-14 16:14:46.999952,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,1.0,,,2.0,3.0
+1855,1893,12,167.0,2023-08-14 16:41:39.264767,"Das nächste Mal wenn ich etwas machen muss, was nur wenig Zeit in Anspruch nimmt, werde ich es direkt machen",change,Commitment,,Goodbye,2023-08-14 16:41:41.585638,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1876,1914,12,168.0,2023-08-16 09:37:31.350638,Eine Liste schreiben wwarum ich prokrastinieren tue,Follow/Neutral,,,Goodbye,2023-08-16 09:37:33.313641,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1897,1935,12,170.0,2023-08-16 10:59:24.106972,Wir sind zu keinem Schluss gekommen,Follow/Neutral,,,Goodbye,2023-08-16 10:59:25.64558,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,1.0,3.0
+1942,1980,12,172.0,2023-08-16 11:44:34.603354,"Ich werde kleine Schritte unternehmen, um mein Ziel zu erreichen.",change,Commitment,,Goodbye,2023-08-16 11:44:36.536491,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,3.0,3.0
+1965,2003,12,175.0,2023-08-16 13:03:19.483221,Ich mache weiter wie bisher.,change,Commitment,,Goodbye,2023-08-16 13:03:21.744683,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+1986,2024,12,177.0,2023-08-16 13:17:51.276216,ins bett gehen,Follow/Neutral,,,Goodbye,2023-08-16 13:17:52.818259,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+1994,2032,12,176.0,2023-08-16 13:21:50.661233,"Weniger Fleisch, weniger Fast-Fashion, Second Hand eine Chance geben",change,Commitment,,Goodbye,2023-08-16 13:21:52.869161,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.0,3.0
+1999,2037,12,178.0,2023-08-16 13:27:31.853657,Ich werde mich konkret ans Klavier setzen und drauf los spielen,change,Commitment,,Goodbye,2023-08-16 13:27:33.654563,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+2020,2058,12,179.0,2023-08-16 13:52:49.210908,"Mir zu überlegen, wie ich meine Aufgaben interessanter gestalte.",Follow/Neutral,,,Goodbye,2023-08-16 13:52:51.126065,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,3.0,3.0
+2038,2076,12,181.0,2023-08-16 14:36:13.186224,"Ich werde mir einen App-Blocker installieren und Zeiten festlegen, in denen ich ungestört arbeiten will. Außerdem werde ich meine Social Media Apps von meinem Handy löschen",change,Commitment,,Goodbye,2023-08-16 14:36:14.948151,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,1.5,3.0
+2057,2095,12,182.0,2023-08-16 14:45:15.258483,Ich koche selber und mit gesunden Zutaten.,change,Taking Steps,,Goodbye,2023-08-16 14:45:16.78783,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Taking Steps,,0.0,,,2.0,3.0
+2061,2099,12,183.0,2023-08-16 14:46:16.755699,ich werde mir stellenanzeigen anschauen und mich bewerben,Follow/Neutral,,,Goodbye,2023-08-16 14:46:18.419108,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+2083,2121,12,186.0,2023-08-16 16:14:57.889564,du sollst mir das schreiben,Follow/Neutral,,,Goodbye,2023-08-16 16:14:59.717147,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+2111,2149,12,188.0,2023-08-16 17:01:55.840501,"Zunächst äußere Umstände eines Problems/ einer Arbeit untersuchen und dokumentieren, um tatsächlich (vor-)planen zu können, um Angst und Nervosität im Zaum zu halten",Follow/Neutral,,,Goodbye,2023-08-16 17:01:57.742404,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,1.0,3.0
+2112,2150,12,189.0,2023-08-16 17:02:37.869922,Tägliche Aufgaben in einer To Do Liste erfassen und diese abarbeiten,Follow/Neutral,,,Goodbye,2023-08-16 17:02:40.31098,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
+2128,2166,12,190.0,2023-08-16 17:36:11.87593,Ich werde alles aus dem Weg räumen was mich von meinem Ziel ablenkt,change,Commitment,,Goodbye,2023-08-16 17:36:13.452551,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+2141,2179,12,191.0,2023-08-16 17:44:44.36344,Den Schritt mit dem Handy umzusetzen,change,Commitment,,Goodbye,2023-08-16 17:44:46.202115,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,change,Commitment,,0.0,,,2.0,3.0
+2148,2186,12,192.0,2023-08-16 17:54:57.467014,Ich denke über die Auslöser des Prokastinierens nach,Follow/Neutral,,,Goodbye,2023-08-16 17:54:59.375219,"Vielen Dank für deine Offenheit in unserem Gespräch. 
+                            Ich hoffe es hat dir dabei geholfen, deinem Ziel zumindest gedanklich etwas näher zu kommen.",,,Follow/Neutral,,,0.0,,,2.0,3.0
