@@ -21,9 +21,12 @@ We save the environment we have exported the complete Python environment configu
 7.	In folder “TopicGPT analysis”. 
 
 In “One_Topic_Generation.ipynb” we generated 219 row topics using gpt-4, the results were saved in “raw_generated_topics.txt”, for further analysis, we convert this txt file to “generated_topics.csv”.
+
 In “Two_Topic_Deduplication.ipynb” we deduplicated topics by clustering over embeddings of the generated topic descriptions, results were saved in “topics_after_deduplication.csv”.
+
 In “Three_Topic Assignment.ipynb”, we employed the GPT-4-turbo model to assign topics to individual dialogues, results were saved in topics_assigned.csv
 
 8.	In folder “TopicGPT analysis/Analysis&Visualisation”.
 In “PCA_Composite Quality Score.ipynb”, we select the most representative user perception metrics, informed by our VIF analysis of user experience measures, we treat readiness to change (RC) as the primary outcome for topic-based analysis.
+
 In “Topic Analysis.ipynb”, we generated figures showing distribution of topics for conversations under no system setting and under framework with less procrastination as goal, we made comparisons between high score and low score based on Readiness to Change (Delta).
